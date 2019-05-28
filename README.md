@@ -26,3 +26,5 @@ It is designed originally for MSP-EXP430G2 LaunchPad kit, but AFAIK it can be ea
 1. [Energia](http://energia.nu/), the Arduino framework to the Texas Instruments MSP430 based LaunchPad 
 
 2. [OpenSCAD](http://www.openscad.org/) (optional), 3D CAD Modeller 
+
+More into the [wiki...](https://github.com/alpinistbg/fishfeeder/wiki)
